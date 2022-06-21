@@ -9,6 +9,7 @@ const data = [
   ]
 
 function Conversiontable()   {
+  return  (
     <div>
         <table>
         <tr>
@@ -24,6 +25,7 @@ function Conversiontable()   {
         })}
       </table>
     </div>
+  )
 }
 
 export default Conversiontable
