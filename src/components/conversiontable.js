@@ -8,7 +8,7 @@ const data = [
     { currency: "Copper (cp)", coin1: "1,000", coin2: "100", coin3: "50", coin4: "10", coin5: "1" }
   ]
 
-function Conversiontable()   {
+function ConversionTable()   {
   return  (
     <div>
         <table>
@@ -32,4 +32,4 @@ function Conversiontable()   {
   )
 }
 
-export default Conversiontable
+export default ConversionTable

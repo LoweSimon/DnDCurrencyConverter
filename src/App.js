@@ -1,14 +1,14 @@
 import './App.css';
-import Title from './components/title';
-import Conversiontable from './components/conversiontable';
-import Conversioninput from './components/conversioninput';
+import Header from './components/Header';
+import ConversionTable from './components/ConversionTable';
+import ConversionInput from './components/ConversionInput';
 
 function App() {
   return (
     <div className="App">
-    <Title />
-    <Conversioninput />
-    <Conversiontable />
+    <Header />
+    <ConversionInput />
+    <ConversionTable />
     </div>
   );
 }

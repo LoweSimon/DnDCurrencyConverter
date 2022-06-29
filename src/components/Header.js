@@ -1,6 +1,6 @@
 import React from "react";
 
-function Title()    {
+function Header()    {
     return  (
         <div>
             <h1>DnD Converter</h1>
@@ -8,4 +8,4 @@ function Title()    {
     )
 }
 
-export default Title
+export default Header
