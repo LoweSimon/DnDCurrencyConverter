@@ -31,16 +31,11 @@ td {
   text-align: center;
 }
 
-.coin {
-  padding: 5px;
-}
-
 input, label  {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
-
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

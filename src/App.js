@@ -5,7 +5,7 @@ import ConversionInput from './components/ConversionInput';
 
 function App() {
   return (
-    <div className="App">
+    <div className="ui container">
     <Header />
     <ConversionInput />
     <ConversionTable />
